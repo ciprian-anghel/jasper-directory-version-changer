@@ -8,8 +8,7 @@
 .settings
 
 # Common to all IDEs
-/*/bin/
-/*/target/
-/*/META-INF/
+/bin/
+/target/
 *.MF
 *.iml
